@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 22f6dc443d292804fac2b4078f887ba6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: B
+    100002: B_root
+    100004: base_B
+    100006: base_E
+    100008: base_K
+    100010: base_L
+    100012: base_P
+    100014: Cube
+    100016: Cube_2
+    100018: E
+    100020: E_root
+    100022: K_b
+    100024: K_dyn
+    100026: K_root
+    100028: K_rot
+    100030: K_static
+    100032: L
+    100034: L_root
+    100036: Light
+    100038: Light_light
+    100040: Light_root
+    100042: MovableRoot
+    100044: P_root
+    100046: //RootNode
+    100048: rail
+    400000: B
+    400002: B_root
+    400004: base_B
+    400006: base_E
+    400008: base_K
+    400010: base_L
+    400012: base_P
+    400014: Cube
+    400016: Cube_2
+    400018: E
+    400020: E_root
+    400022: K_b
+    400024: K_dyn
+    400026: K_root
+    400028: K_rot
+    400030: K_static
+    400032: L
+    400034: L_root
+    400036: Light
+    400038: Light_light
+    400040: Light_root
+    400042: MovableRoot
+    400044: P_root
+    400046: rail
+    400048: //RootNode
+    2100000: Metal
+    2100002: Reflect
+    2100004: mark
+    2100006: White
+    2100008: No Name
+    2100010: railEnd
+    2100012: rail
+    2300000: B
+    2300002: base_B
+    2300004: base_E
+    2300006: base_K
+    2300008: base_L
+    2300010: base_P
+    2300012: Cube
+    2300014: Cube_2
+    2300016: E
+    2300018: K_b
+    2300020: K_dyn
+    2300022: K_rot
+    2300024: K_static
+    2300026: L
+    2300028: Light
+    2300030: Light_light
+    2300032: rail
+    3300000: B
+    3300002: base_B
+    3300004: base_E
+    3300006: base_K
+    3300008: base_L
+    3300010: base_P
+    3300012: Cube
+    3300014: Cube_2
+    3300016: E
+    3300018: K_b
+    3300020: K_dyn
+    3300022: K_rot
+    3300024: K_static
+    3300026: L
+    3300028: Light
+    3300030: Light_light
+    3300032: rail
+    4300000: base_E
+    4300002: E
+    4300004: base_P
+    4300006: Cube
+    4300008: base_B
+    4300010: B
+    4300012: base_K
+    4300014: K_b
+    4300016: K_rot
+    4300018: K_static
+    4300020: K_dyn
+    4300022: base_L
+    4300024: L
+    4300026: Cube_2
+    4300028: Light
+    4300030: Light_light
+    4300032: rail
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: de6396e0cc0c9314d96cfdd607ebf296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 71741acc11bfddf47a7686cd087565ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reflect
+    second: {fileID: 2100000, guid: 9cc65b8b3eb7dae418f139502967c0c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: a33c9850c7c3fbd4cb5303f2bef75f6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mark
+    second: {fileID: 2100000, guid: aeac48841b3e35546a0c34660cc8a7e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rail
+    second: {fileID: 2100000, guid: 86c6c3e1d8716744a921585dfd53637e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: railEnd
+    second: {fileID: 2100000, guid: f3b4013de11a7304687202dc41038670, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
